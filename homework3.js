@@ -140,3 +140,5 @@ console.log((function(){
         return person.firstName+' სრულწლოვანია'
     }
 })())
+
+537858374t7reghfuy
